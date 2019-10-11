@@ -1,6 +1,6 @@
 # Go-Easy-Server
 
-A simple go server to server static assets locally.
+A simple go server to serve static assets locally.
 
 ## Running
 
